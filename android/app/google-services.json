@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992500853009",
+    "project_id": "lffeventos",
+    "storage_bucket": "lffeventos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992500853009:android:b0f23cb406884d42e0c4b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEjpiTnBzFlDAKo32-w3QCEFdTNTp5Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
